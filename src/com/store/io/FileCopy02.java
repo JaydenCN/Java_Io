@@ -6,6 +6,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 
 public class FileCopy02 {
+    //测试本地分支提交
     /*
     利用FileReder 和 FileWrite实现 普通文本 的Copy
     此方法只能用于 普通文本
